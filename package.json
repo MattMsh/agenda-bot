@@ -1,0 +1,26 @@
+{
+  "name": "agenda-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot, that parses agenda for students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MattMsh/agenda-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "agenda",
+    "telegram",
+    "university",
+    "students"
+  ],
+  "author": "Matvii Mashtaliar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattMsh/agenda-bot/issues"
+  },
+  "homepage": "https://github.com/MattMsh/agenda-bot#readme"
+}
